@@ -1,3 +1,6 @@
+var _ = require('lodash');
+console.log(_);
+
 var css = document.querySelector("#copiedText");
 var color1 = document.querySelector(".color1");
 var color2 = document.querySelector(".color2");
